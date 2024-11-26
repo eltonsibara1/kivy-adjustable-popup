@@ -12,12 +12,11 @@ ScrollView: Supports scrolling when content exceeds the maximum height, ensuring
 Customizable appearance with the ability to change title fonts, colors, and radius for rounded corners.
 Installation
 To use this code, you'll need to have Kivy installed. If you don't have Kivy installed, you can install it via pip:
-
+> pip install kivy
 • Here is a breakdown of how the adjustable popup works:
 
 Adjustable Height: The popup's height automatically adjusts based on its content size. The label text or buttons inside the popup determine the height, and the popup resizes accordingly.
-Manual Width Adjustment: The width of the popup can be manually set, but the height is calculate[Uploading Adjustable_Popup.py…]()
-d dynamically based on the content.
+Manual Width Adjustment: The width of the popup can be manually set, but the height is calculated dynamically based on the content.
 Scroll Support: If the popup's content exceeds the specified height, the content becomes scrollable using a ScrollView.
 
 Example Code:
