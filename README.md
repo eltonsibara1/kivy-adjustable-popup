@@ -13,6 +13,7 @@ Customizable appearance with the ability to change title fonts, colors, and radi
 Installation
 To use this code, you'll need to have Kivy installed. If you don't have Kivy installed, you can install it via pip:
 > pip install kivy
+
 • Here is a breakdown of how the adjustable popup works:
 
 Adjustable Height: The popup's height automatically adjusts based on its content size. The label text or buttons inside the popup determine the height, and the popup resizes accordingly.
