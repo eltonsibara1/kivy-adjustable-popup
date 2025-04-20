@@ -14,7 +14,7 @@ Builder.load_string('''
     title:"• Terms and Condition •"
     title_align:"center"
     title_color:1,1,1,1
-    title_font:"font/bold_black_emoji.ttf"
+    #title_font:"font/bold_black_emoji.ttf"
     title_size:"18sp"
     auto_dismiss: False
     size_hint:0.7, None
